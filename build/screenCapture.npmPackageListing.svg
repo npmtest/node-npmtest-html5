@@ -1,162 +1,162 @@
 <svg height="2542" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2542" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 14:55:34 +0000  3199338 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 14:55:34 +0000     1078 bytes  COPYING</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 14:55:34 +0000    11161 bytes  History.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 14:55:34 +0000      483 bytes  Makefile</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 14:55:34 +0000     1210 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 14:55:34 +0000      584 bytes  doc/TODO.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 14:55:34 +0000     2327 bytes  doc/api.markdown</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 14:55:34 +0000      274 bytes  doc/api_footer.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 14:55:34 +0000     4370 bytes  doc/api_header.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 14:55:34 +0000     3632 bytes  doc/doc.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 14:55:34 +0000    72174 bytes  doc/jquery.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 14:55:34 +0000     5697 bytes  doc/logo.png</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 14:55:34 +0000     3484 bytes  doc/sh_javascript.min.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 14:55:34 +0000    15851 bytes  doc/sh_main.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 14:55:34 +0000      402 bytes  doc/sh_vim-dark.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 14:55:34 +0000   515971 bytes  doc/syntax.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 14:55:34 +0000      840 bytes  example.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 14:55:34 +0000     7436 bytes  lib/ElementStack.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 14:55:34 +0000     6694 bytes  lib/EntityParser.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 14:55:34 +0000     3229 bytes  lib/InputStream.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 14:55:34 +0000     3587 bytes  lib/StackItem.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 14:55:34 +0000    52360 bytes  lib/Tokenizer.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 14:55:34 +0000    98459 bytes  lib/TreeBuilder.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 14:55:34 +0000       70 bytes  lib/array-helpers.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 14:55:34 +0000     4443 bytes  lib/constants.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 14:55:34 +0000     1002 bytes  lib/dom/DOMParser.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 14:55:34 +0000     3638 bytes  lib/dom/DOMTreeBuilder.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 14:55:34 +0000     3082 bytes  lib/encodings.json</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 14:55:34 +0000      428 bytes  lib/index.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 14:55:34 +0000     1064 bytes  lib/jsdom/JSDOMParser.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 14:55:34 +0000     4750 bytes  lib/jsdom/JSDOMTreeBuilder.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 14:55:34 +0000    11750 bytes  lib/messages.json</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 14:55:34 +0000     1414 bytes  lib/sax/SAXParser.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 14:55:34 +0000    16292 bytes  lib/sax/SAXTreeBuilder.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 14:55:34 +0000     6586 bytes  lib/sax/TreeParser.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 14:55:34 +0000     1282 bytes  package.json</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 14:55:34 +0000      360 bytes  t</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 14:55:34 +0000      460 bytes  test/data/AUTHORS.rst</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 14:55:34 +0000     1103 bytes  test/data/LICENSE</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 14:55:34 +0000     1303 bytes  test/data/encoding/chardet/test_big5.txt</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 14:55:34 +0000      502 bytes  test/data/encoding/test-yahoo-jp.dat</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 14:55:34 +0000    45452 bytes  test/data/encoding/tests1.dat</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 14:55:34 +0000     3113 bytes  test/data/encoding/tests2.dat</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 14:55:34 +0000    15029 bytes  test/data/sanitizer/tests1.dat</tspan>
-<tspan x="10" y="730"> 44.  2017-04-21 14:55:34 +0000     5167 bytes  test/data/serializer/core.test</tspan>
-<tspan x="10" y="746"> 45.  2017-04-21 14:55:34 +0000     4777 bytes  test/data/serializer/injectmeta.test</tspan>
-<tspan x="10" y="762"> 46.  2017-04-21 14:55:34 +0000    35315 bytes  test/data/serializer/optionaltags.test</tspan>
-<tspan x="10" y="778"> 47.  2017-04-21 14:55:34 +0000     2405 bytes  test/data/serializer/options.test</tspan>
-<tspan x="10" y="794"> 48.  2017-04-21 14:55:34 +0000     2501 bytes  test/data/serializer/whitespace.test</tspan>
-<tspan x="10" y="810"> 49.  2017-04-21 14:55:34 +0000    17365 bytes  test/data/sniffer/htmlOrFeed.json</tspan>
-<tspan x="10" y="826"> 50.  2017-04-21 14:55:34 +0000     4134 bytes  test/data/tokenizer/README.md</tspan>
-<tspan x="10" y="842"> 51.  2017-04-21 14:55:34 +0000     2521 bytes  test/data/tokenizer/contentModelFlags.test</tspan>
-<tspan x="10" y="858"> 52.  2017-04-21 14:55:34 +0000     3184 bytes  test/data/tokenizer/domjs.test</tspan>
-<tspan x="10" y="874"> 53.  2017-04-21 14:55:34 +0000    10383 bytes  test/data/tokenizer/entities.test</tspan>
-<tspan x="10" y="890"> 54.  2017-04-21 14:55:34 +0000     1306 bytes  test/data/tokenizer/escapeFlag.test</tspan>
-<tspan x="10" y="906"> 55.  2017-04-21 14:55:34 +0000  1134132 bytes  test/data/tokenizer/namedEntities.test</tspan>
-<tspan x="10" y="922"> 56.  2017-04-21 14:55:34 +0000    40348 bytes  test/data/tokenizer/numericEntities.test</tspan>
-<tspan x="10" y="938"> 57.  2017-04-21 14:55:34 +0000      123 bytes  test/data/tokenizer/pendingSpecChanges.test</tspan>
-<tspan x="10" y="954"> 58.  2017-04-21 14:55:34 +0000     5637 bytes  test/data/tokenizer/test1.test</tspan>
-<tspan x="10" y="970"> 59.  2017-04-21 14:55:34 +0000     6388 bytes  test/data/tokenizer/test2.test</tspan>
-<tspan x="10" y="986"> 60.  2017-04-21 14:55:34 +0000   184829 bytes  test/data/tokenizer/test3.test</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-21 14:55:34 +0000    11158 bytes  test/data/tokenizer/test4.test</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-21 14:55:34 +0000    37239 bytes  test/data/tokenizer/unicodeChars.test</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-21 14:55:34 +0000      845 bytes  test/data/tokenizer/unicodeCharsProblematic.test</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-21 14:55:34 +0000      518 bytes  test/data/tokenizer/xmlViolation.test</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-21 14:55:34 +0000     3814 bytes  test/data/tree-construction/README.md</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-21 14:55:34 +0000     5821 bytes  test/data/tree-construction/adoption01.dat</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-21 14:55:34 +0000      672 bytes  test/data/tree-construction/adoption02.dat</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-21 14:55:34 +0000     2964 bytes  test/data/tree-construction/comments01.dat</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-21 14:55:34 +0000     7470 bytes  test/data/tree-construction/doctype01.dat</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-21 14:55:34 +0000     9884 bytes  test/data/tree-construction/domjs-unsafe.dat</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-21 14:55:34 +0000    10726 bytes  test/data/tree-construction/entities01.dat</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-21 14:55:34 +0000     4328 bytes  test/data/tree-construction/entities02.dat</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-21 14:55:34 +0000     4484 bytes  test/data/tree-construction/html5test-com.dat</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-21 14:55:34 +0000      836 bytes  test/data/tree-construction/inbody01.dat</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-21 14:55:34 +0000      808 bytes  test/data/tree-construction/isindex.dat</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-21 14:55:34 +0000      628 bytes  test/data/tree-construction/main-element.dat</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-21 14:55:34 +0000      816 bytes  test/data/tree-construction/pending-spec-changes\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 14:56:46 +0000  3199338 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 14:56:46 +0000     1078 bytes  COPYING</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 14:56:46 +0000    11161 bytes  History.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 14:56:46 +0000      483 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 14:56:46 +0000     1210 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 14:56:46 +0000      584 bytes  doc/TODO.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 14:56:46 +0000     2327 bytes  doc/api.markdown</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 14:56:46 +0000      274 bytes  doc/api_footer.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 14:56:46 +0000     4370 bytes  doc/api_header.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 14:56:46 +0000     3632 bytes  doc/doc.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 14:56:46 +0000    72174 bytes  doc/jquery.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 14:56:46 +0000     5697 bytes  doc/logo.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 14:56:46 +0000     3484 bytes  doc/sh_javascript.min.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 14:56:46 +0000    15851 bytes  doc/sh_main.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 14:56:46 +0000      402 bytes  doc/sh_vim-dark.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 14:56:46 +0000   515971 bytes  doc/syntax.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 14:56:46 +0000      840 bytes  example.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 14:56:46 +0000     7436 bytes  lib/ElementStack.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 14:56:46 +0000     6694 bytes  lib/EntityParser.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 14:56:46 +0000     3229 bytes  lib/InputStream.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 14:56:46 +0000     3587 bytes  lib/StackItem.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 14:56:46 +0000    52360 bytes  lib/Tokenizer.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 14:56:46 +0000    98459 bytes  lib/TreeBuilder.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 14:56:46 +0000       70 bytes  lib/array-helpers.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 14:56:46 +0000     4443 bytes  lib/constants.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 14:56:46 +0000     1002 bytes  lib/dom/DOMParser.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 14:56:46 +0000     3638 bytes  lib/dom/DOMTreeBuilder.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 14:56:46 +0000     3082 bytes  lib/encodings.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 14:56:46 +0000      428 bytes  lib/index.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 14:56:46 +0000     1064 bytes  lib/jsdom/JSDOMParser.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 14:56:46 +0000     4750 bytes  lib/jsdom/JSDOMTreeBuilder.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 14:56:46 +0000    11750 bytes  lib/messages.json</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 14:56:46 +0000     1414 bytes  lib/sax/SAXParser.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 14:56:46 +0000    16292 bytes  lib/sax/SAXTreeBuilder.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 14:56:46 +0000     6586 bytes  lib/sax/TreeParser.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 14:56:46 +0000     1282 bytes  package.json</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 14:56:46 +0000      360 bytes  t</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 14:56:46 +0000      460 bytes  test/data/AUTHORS.rst</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 14:56:46 +0000     1103 bytes  test/data/LICENSE</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 14:56:46 +0000     1303 bytes  test/data/encoding/chardet/test_big5.txt</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 14:56:46 +0000      502 bytes  test/data/encoding/test-yahoo-jp.dat</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 14:56:46 +0000    45452 bytes  test/data/encoding/tests1.dat</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 14:56:46 +0000     3113 bytes  test/data/encoding/tests2.dat</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 14:56:46 +0000    15029 bytes  test/data/sanitizer/tests1.dat</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 14:56:46 +0000     5167 bytes  test/data/serializer/core.test</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 14:56:46 +0000     4777 bytes  test/data/serializer/injectmeta.test</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 14:56:46 +0000    35315 bytes  test/data/serializer/optionaltags.test</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 14:56:46 +0000     2405 bytes  test/data/serializer/options.test</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 14:56:46 +0000     2501 bytes  test/data/serializer/whitespace.test</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 14:56:46 +0000    17365 bytes  test/data/sniffer/htmlOrFeed.json</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 14:56:46 +0000     4134 bytes  test/data/tokenizer/README.md</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 14:56:46 +0000     2521 bytes  test/data/tokenizer/contentModelFlags.test</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 14:56:46 +0000     3184 bytes  test/data/tokenizer/domjs.test</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 14:56:46 +0000    10383 bytes  test/data/tokenizer/entities.test</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 14:56:46 +0000     1306 bytes  test/data/tokenizer/escapeFlag.test</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 14:56:46 +0000  1134132 bytes  test/data/tokenizer/namedEntities.test</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 14:56:46 +0000    40348 bytes  test/data/tokenizer/numericEntities.test</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 14:56:46 +0000      123 bytes  test/data/tokenizer/pendingSpecChanges.test</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 14:56:46 +0000     5637 bytes  test/data/tokenizer/test1.test</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 14:56:46 +0000     6388 bytes  test/data/tokenizer/test2.test</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 14:56:46 +0000   184829 bytes  test/data/tokenizer/test3.test</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 14:56:46 +0000    11158 bytes  test/data/tokenizer/test4.test</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 14:56:46 +0000    37239 bytes  test/data/tokenizer/unicodeChars.test</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 14:56:46 +0000      845 bytes  test/data/tokenizer/unicodeCharsProblematic.test</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 14:56:46 +0000      518 bytes  test/data/tokenizer/xmlViolation.test</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 14:56:46 +0000     3814 bytes  test/data/tree-construction/README.md</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 14:56:46 +0000     5821 bytes  test/data/tree-construction/adoption01.dat</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 14:56:46 +0000      672 bytes  test/data/tree-construction/adoption02.dat</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 14:56:46 +0000     2964 bytes  test/data/tree-construction/comments01.dat</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 14:56:46 +0000     7470 bytes  test/data/tree-construction/doctype01.dat</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 14:56:46 +0000     9884 bytes  test/data/tree-construction/domjs-unsafe.dat</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 14:56:46 +0000    10726 bytes  test/data/tree-construction/entities01.dat</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 14:56:46 +0000     4328 bytes  test/data/tree-construction/entities02.dat</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 14:56:46 +0000     4484 bytes  test/data/tree-construction/html5test-com.dat</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 14:56:46 +0000      836 bytes  test/data/tree-construction/inbody01.dat</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 14:56:46 +0000      808 bytes  test/data/tree-construction/isindex.dat</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 14:56:46 +0000      628 bytes  test/data/tree-construction/main-element.dat</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 14:56:46 +0000      816 bytes  test/data/tree-construction/pending-spec-changes\</tspan>
 <tspan x="10" y="1274">-plain-text-unsafe.dat</tspan>
-<tspan x="10" y="1290"> 78.  2017-04-21 14:55:34 +0000      851 bytes  test/data/tree-construction/pending-spec-changes\</tspan>
+<tspan x="10" y="1290"> 78.  2017-04-21 14:56:46 +0000      851 bytes  test/data/tree-construction/pending-spec-changes\</tspan>
 <tspan x="10" y="1306">.dat</tspan>
-<tspan x="10" y="1322"> 79.  2017-04-21 14:55:34 +0000     7925 bytes  test/data/tree-construction/plain-text-unsafe.da\</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-21 14:56:46 +0000     7925 bytes  test/data/tree-construction/plain-text-unsafe.da\</tspan>
 <tspan x="10" y="1338">t</tspan>
-<tspan x="10" y="1354"> 80.  2017-04-21 14:55:34 +0000     6057 bytes  test/data/tree-construction/scriptdata01.dat</tspan>
-<tspan x="10" y="1370"> 81.  2017-04-21 14:55:34 +0000      285 bytes  test/data/tree-construction/scripted/adoption01.\</tspan>
+<tspan x="10" y="1354"> 80.  2017-04-21 14:56:46 +0000     6057 bytes  test/data/tree-construction/scriptdata01.dat</tspan>
+<tspan x="10" y="1370"> 81.  2017-04-21 14:56:46 +0000      285 bytes  test/data/tree-construction/scripted/adoption01.\</tspan>
 <tspan x="10" y="1386">dat</tspan>
-<tspan x="10" y="1402"> 82.  2017-04-21 14:55:34 +0000      620 bytes  test/data/tree-construction/scripted/ark.dat</tspan>
-<tspan x="10" y="1418"> 83.  2017-04-21 14:55:34 +0000      581 bytes  test/data/tree-construction/scripted/webkit01.da\</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-21 14:56:46 +0000      620 bytes  test/data/tree-construction/scripted/ark.dat</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-21 14:56:46 +0000      581 bytes  test/data/tree-construction/scripted/webkit01.da\</tspan>
 <tspan x="10" y="1434">t</tspan>
-<tspan x="10" y="1450"> 84.  2017-04-21 14:55:34 +0000     5559 bytes  test/data/tree-construction/tables01.dat</tspan>
-<tspan x="10" y="1466"> 85.  2017-04-21 14:55:34 +0000    19221 bytes  test/data/tree-construction/template.dat</tspan>
-<tspan x="10" y="1482"> 86.  2017-04-21 14:55:34 +0000    39309 bytes  test/data/tree-construction/tests1.dat</tspan>
-<tspan x="10" y="1498"> 87.  2017-04-21 14:55:34 +0000    16103 bytes  test/data/tree-construction/tests10.dat</tspan>
-<tspan x="10" y="1514"> 88.  2017-04-21 14:55:34 +0000    17149 bytes  test/data/tree-construction/tests11.dat</tspan>
-<tspan x="10" y="1530"> 89.  2017-04-21 14:55:34 +0000     1612 bytes  test/data/tree-construction/tests12.dat</tspan>
-<tspan x="10" y="1546"> 90.  2017-04-21 14:55:34 +0000     1067 bytes  test/data/tree-construction/tests14.dat</tspan>
-<tspan x="10" y="1562"> 91.  2017-04-21 14:55:34 +0000     3649 bytes  test/data/tree-construction/tests15.dat</tspan>
-<tspan x="10" y="1578"> 92.  2017-04-21 14:55:34 +0000    41392 bytes  test/data/tree-construction/tests16.dat</tspan>
-<tspan x="10" y="1594"> 93.  2017-04-21 14:55:34 +0000     3031 bytes  test/data/tree-construction/tests17.dat</tspan>
-<tspan x="10" y="1610"> 94.  2017-04-21 14:55:34 +0000     6246 bytes  test/data/tree-construction/tests18.dat</tspan>
-<tspan x="10" y="1626"> 95.  2017-04-21 14:55:34 +0000    24435 bytes  test/data/tree-construction/tests19.dat</tspan>
-<tspan x="10" y="1642"> 96.  2017-04-21 14:55:34 +0000    11638 bytes  test/data/tree-construction/tests2.dat</tspan>
-<tspan x="10" y="1658"> 97.  2017-04-21 14:55:34 +0000     8432 bytes  test/data/tree-construction/tests20.dat</tspan>
-<tspan x="10" y="1674"> 98.  2017-04-21 14:55:34 +0000     5025 bytes  test/data/tree-construction/tests21.dat</tspan>
-<tspan x="10" y="1690"> 99.  2017-04-21 14:55:34 +0000     4243 bytes  test/data/tree-construction/tests22.dat</tspan>
-<tspan x="10" y="1706">100.  2017-04-21 14:55:34 +0000     3478 bytes  test/data/tree-construction/tests23.dat</tspan>
-<tspan x="10" y="1722">101.  2017-04-21 14:55:34 +0000      929 bytes  test/data/tree-construction/tests24.dat</tspan>
-<tspan x="10" y="1738">102.  2017-04-21 14:55:34 +0000     2634 bytes  test/data/tree-construction/tests25.dat</tspan>
-<tspan x="10" y="1754">103.  2017-04-21 14:55:34 +0000     7675 bytes  test/data/tree-construction/tests26.dat</tspan>
-<tspan x="10" y="1770">104.  2017-04-21 14:55:34 +0000     4611 bytes  test/data/tree-construction/tests3.dat</tspan>
-<tspan x="10" y="1786">105.  2017-04-21 14:55:34 +0000      834 bytes  test/data/tree-construction/tests4.dat</tspan>
-<tspan x="10" y="1802">106.  2017-04-21 14:55:34 +0000     2952 bytes  test/data/tree-construction/tests5.dat</tspan>
-<tspan x="10" y="1818">107.  2017-04-21 14:55:34 +0000    11080 bytes  test/data/tree-construction/tests6.dat</tspan>
-<tspan x="10" y="1834">108.  2017-04-21 14:55:34 +0000     6371 bytes  test/data/tree-construction/tests7.dat</tspan>
-<tspan x="10" y="1850">109.  2017-04-21 14:55:34 +0000     2395 bytes  test/data/tree-construction/tests8.dat</tspan>
-<tspan x="10" y="1866">110.  2017-04-21 14:55:34 +0000     9837 bytes  test/data/tree-construction/tests9.dat</tspan>
-<tspan x="10" y="1882">111.  2017-04-21 14:55:34 +0000    11826 bytes  test/data/tree-construction/tests_innerHTML_1.da\</tspan>
+<tspan x="10" y="1450"> 84.  2017-04-21 14:56:46 +0000     5559 bytes  test/data/tree-construction/tables01.dat</tspan>
+<tspan x="10" y="1466"> 85.  2017-04-21 14:56:46 +0000    19221 bytes  test/data/tree-construction/template.dat</tspan>
+<tspan x="10" y="1482"> 86.  2017-04-21 14:56:46 +0000    39309 bytes  test/data/tree-construction/tests1.dat</tspan>
+<tspan x="10" y="1498"> 87.  2017-04-21 14:56:46 +0000    16103 bytes  test/data/tree-construction/tests10.dat</tspan>
+<tspan x="10" y="1514"> 88.  2017-04-21 14:56:46 +0000    17149 bytes  test/data/tree-construction/tests11.dat</tspan>
+<tspan x="10" y="1530"> 89.  2017-04-21 14:56:46 +0000     1612 bytes  test/data/tree-construction/tests12.dat</tspan>
+<tspan x="10" y="1546"> 90.  2017-04-21 14:56:46 +0000     1067 bytes  test/data/tree-construction/tests14.dat</tspan>
+<tspan x="10" y="1562"> 91.  2017-04-21 14:56:46 +0000     3649 bytes  test/data/tree-construction/tests15.dat</tspan>
+<tspan x="10" y="1578"> 92.  2017-04-21 14:56:46 +0000    41392 bytes  test/data/tree-construction/tests16.dat</tspan>
+<tspan x="10" y="1594"> 93.  2017-04-21 14:56:46 +0000     3031 bytes  test/data/tree-construction/tests17.dat</tspan>
+<tspan x="10" y="1610"> 94.  2017-04-21 14:56:46 +0000     6246 bytes  test/data/tree-construction/tests18.dat</tspan>
+<tspan x="10" y="1626"> 95.  2017-04-21 14:56:46 +0000    24435 bytes  test/data/tree-construction/tests19.dat</tspan>
+<tspan x="10" y="1642"> 96.  2017-04-21 14:56:46 +0000    11638 bytes  test/data/tree-construction/tests2.dat</tspan>
+<tspan x="10" y="1658"> 97.  2017-04-21 14:56:46 +0000     8432 bytes  test/data/tree-construction/tests20.dat</tspan>
+<tspan x="10" y="1674"> 98.  2017-04-21 14:56:46 +0000     5025 bytes  test/data/tree-construction/tests21.dat</tspan>
+<tspan x="10" y="1690"> 99.  2017-04-21 14:56:46 +0000     4243 bytes  test/data/tree-construction/tests22.dat</tspan>
+<tspan x="10" y="1706">100.  2017-04-21 14:56:46 +0000     3478 bytes  test/data/tree-construction/tests23.dat</tspan>
+<tspan x="10" y="1722">101.  2017-04-21 14:56:46 +0000      929 bytes  test/data/tree-construction/tests24.dat</tspan>
+<tspan x="10" y="1738">102.  2017-04-21 14:56:46 +0000     2634 bytes  test/data/tree-construction/tests25.dat</tspan>
+<tspan x="10" y="1754">103.  2017-04-21 14:56:46 +0000     7675 bytes  test/data/tree-construction/tests26.dat</tspan>
+<tspan x="10" y="1770">104.  2017-04-21 14:56:46 +0000     4611 bytes  test/data/tree-construction/tests3.dat</tspan>
+<tspan x="10" y="1786">105.  2017-04-21 14:56:46 +0000      834 bytes  test/data/tree-construction/tests4.dat</tspan>
+<tspan x="10" y="1802">106.  2017-04-21 14:56:46 +0000     2952 bytes  test/data/tree-construction/tests5.dat</tspan>
+<tspan x="10" y="1818">107.  2017-04-21 14:56:46 +0000    11080 bytes  test/data/tree-construction/tests6.dat</tspan>
+<tspan x="10" y="1834">108.  2017-04-21 14:56:46 +0000     6371 bytes  test/data/tree-construction/tests7.dat</tspan>
+<tspan x="10" y="1850">109.  2017-04-21 14:56:46 +0000     2395 bytes  test/data/tree-construction/tests8.dat</tspan>
+<tspan x="10" y="1866">110.  2017-04-21 14:56:46 +0000     9837 bytes  test/data/tree-construction/tests9.dat</tspan>
+<tspan x="10" y="1882">111.  2017-04-21 14:56:46 +0000    11826 bytes  test/data/tree-construction/tests_innerHTML_1.da\</tspan>
 <tspan x="10" y="1898">t</tspan>
-<tspan x="10" y="1914">112.  2017-04-21 14:55:34 +0000     6605 bytes  test/data/tree-construction/tricky01.dat</tspan>
-<tspan x="10" y="1930">113.  2017-04-21 14:55:34 +0000    11968 bytes  test/data/tree-construction/webkit01.dat</tspan>
-<tspan x="10" y="1946">114.  2017-04-21 14:55:34 +0000     2072 bytes  test/data/tree-construction/webkit02.dat</tspan>
-<tspan x="10" y="1962">115.  2017-04-21 14:55:34 +0000    30560 bytes  test/data/validator/attributes.test</tspan>
-<tspan x="10" y="1978">116.  2017-04-21 14:55:34 +0000    30476 bytes  test/data/validator/base-href-attribute.test</tspan>
-<tspan x="10" y="1994">117.  2017-04-21 14:55:34 +0000     1033 bytes  test/data/validator/base-target-attribute.test</tspan>
-<tspan x="10" y="2010">118.  2017-04-21 14:55:34 +0000      186 bytes  test/data/validator/blockquote-cite-attribute.te\</tspan>
+<tspan x="10" y="1914">112.  2017-04-21 14:56:46 +0000     6605 bytes  test/data/tree-construction/tricky01.dat</tspan>
+<tspan x="10" y="1930">113.  2017-04-21 14:56:46 +0000    11968 bytes  test/data/tree-construction/webkit01.dat</tspan>
+<tspan x="10" y="1946">114.  2017-04-21 14:56:46 +0000     2072 bytes  test/data/tree-construction/webkit02.dat</tspan>
+<tspan x="10" y="1962">115.  2017-04-21 14:56:46 +0000    30560 bytes  test/data/validator/attributes.test</tspan>
+<tspan x="10" y="1978">116.  2017-04-21 14:56:46 +0000    30476 bytes  test/data/validator/base-href-attribute.test</tspan>
+<tspan x="10" y="1994">117.  2017-04-21 14:56:46 +0000     1033 bytes  test/data/validator/base-target-attribute.test</tspan>
+<tspan x="10" y="2010">118.  2017-04-21 14:56:46 +0000      186 bytes  test/data/validator/blockquote-cite-attribute.te\</tspan>
 <tspan x="10" y="2026">st</tspan>
-<tspan x="10" y="2042">119.  2017-04-21 14:55:34 +0000     5562 bytes  test/data/validator/classattribute.test</tspan>
-<tspan x="10" y="2058">120.  2017-04-21 14:55:34 +0000     2062 bytes  test/data/validator/contenteditableattribute.tes\</tspan>
+<tspan x="10" y="2042">119.  2017-04-21 14:56:46 +0000     5562 bytes  test/data/validator/classattribute.test</tspan>
+<tspan x="10" y="2058">120.  2017-04-21 14:56:46 +0000     2062 bytes  test/data/validator/contenteditableattribute.tes\</tspan>
 <tspan x="10" y="2074">t</tspan>
-<tspan x="10" y="2090">121.  2017-04-21 14:55:34 +0000     3601 bytes  test/data/validator/contextmenuattribute.test</tspan>
-<tspan x="10" y="2106">122.  2017-04-21 14:55:34 +0000     1817 bytes  test/data/validator/dirattribute.test</tspan>
-<tspan x="10" y="2122">123.  2017-04-21 14:55:34 +0000     2061 bytes  test/data/validator/draggableattribute.test</tspan>
-<tspan x="10" y="2138">124.  2017-04-21 14:55:34 +0000      809 bytes  test/data/validator/html-xmlns-attribute.test</tspan>
-<tspan x="10" y="2154">125.  2017-04-21 14:55:34 +0000     3337 bytes  test/data/validator/idattribute.test</tspan>
-<tspan x="10" y="2170">126.  2017-04-21 14:55:34 +0000   119371 bytes  test/data/validator/inputattributes.test</tspan>
-<tspan x="10" y="2186">127.  2017-04-21 14:55:34 +0000     2150 bytes  test/data/validator/irrelevantattribute.test</tspan>
-<tspan x="10" y="2202">128.  2017-04-21 14:55:34 +0000   155451 bytes  test/data/validator/langattribute.test</tspan>
-<tspan x="10" y="2218">129.  2017-04-21 14:55:34 +0000      154 bytes  test/data/validator/li-value-attribute.test</tspan>
-<tspan x="10" y="2234">130.  2017-04-21 14:55:34 +0000      174 bytes  test/data/validator/link-href-attribute.test</tspan>
-<tspan x="10" y="2250">131.  2017-04-21 14:55:34 +0000      132 bytes  test/data/validator/link-hreflang-attribute.test</tspan>
-<tspan x="10" y="2266">132.  2017-04-21 14:55:34 +0000     8669 bytes  test/data/validator/link-rel-attribute.test</tspan>
-<tspan x="10" y="2282">133.  2017-04-21 14:55:34 +0000      154 bytes  test/data/validator/ol-start-attribute.test</tspan>
-<tspan x="10" y="2298">134.  2017-04-21 14:55:34 +0000     9088 bytes  test/data/validator/starttags.test</tspan>
-<tspan x="10" y="2314">135.  2017-04-21 14:55:34 +0000      157 bytes  test/data/validator/style-scoped-attribute.test</tspan>
-<tspan x="10" y="2330">136.  2017-04-21 14:55:34 +0000     2720 bytes  test/data/validator/tabindexattribute.test</tspan>
-<tspan x="10" y="2346">137.  2017-04-21 14:55:34 +0000     2132 bytes  test/lib/serializeTestOutput.js</tspan>
-<tspan x="10" y="2362">138.  2017-04-21 14:55:34 +0000     1586 bytes  test/lib/support.js</tspan>
-<tspan x="10" y="2378">139.  2017-04-21 14:55:34 +0000     1709 bytes  test/tree-construction-test.js</tspan>
-<tspan x="10" y="2394">140.  2017-04-21 14:55:34 +0000      465 bytes  tools/parse-doc.js</tspan>
-<tspan x="10" y="2410">141.  2017-04-21 14:55:34 +0000      288 bytes  tools/parse-test-data.js</tspan>
-<tspan x="10" y="2426">142.  2017-04-21 14:55:34 +0000     2371 bytes  tools/test-viewer/app.js</tspan>
-<tspan x="10" y="2442">143.  2017-04-21 14:55:34 +0000      163 bytes  tools/test-viewer/public/stylesheets/style.css</tspan>
-<tspan x="10" y="2458">144.  2017-04-21 14:55:34 +0000      379 bytes  tools/test-viewer/test/app.test.js</tspan>
-<tspan x="10" y="2474">145.  2017-04-21 14:55:34 +0000      131 bytes  tools/test-viewer/views/index.jade</tspan>
-<tspan x="10" y="2490">146.  2017-04-21 14:55:34 +0000      104 bytes  tools/test-viewer/views/layout.jade</tspan>
-<tspan x="10" y="2506">147.  2017-04-21 14:55:34 +0000      239 bytes  tools/test-viewer/views/output.jade</tspan>
-<tspan x="10" y="2522">148.  2017-04-21 14:55:34 +0000     2398 bytes  tools/testbed.js</tspan>
+<tspan x="10" y="2090">121.  2017-04-21 14:56:46 +0000     3601 bytes  test/data/validator/contextmenuattribute.test</tspan>
+<tspan x="10" y="2106">122.  2017-04-21 14:56:46 +0000     1817 bytes  test/data/validator/dirattribute.test</tspan>
+<tspan x="10" y="2122">123.  2017-04-21 14:56:46 +0000     2061 bytes  test/data/validator/draggableattribute.test</tspan>
+<tspan x="10" y="2138">124.  2017-04-21 14:56:46 +0000      809 bytes  test/data/validator/html-xmlns-attribute.test</tspan>
+<tspan x="10" y="2154">125.  2017-04-21 14:56:46 +0000     3337 bytes  test/data/validator/idattribute.test</tspan>
+<tspan x="10" y="2170">126.  2017-04-21 14:56:46 +0000   119371 bytes  test/data/validator/inputattributes.test</tspan>
+<tspan x="10" y="2186">127.  2017-04-21 14:56:46 +0000     2150 bytes  test/data/validator/irrelevantattribute.test</tspan>
+<tspan x="10" y="2202">128.  2017-04-21 14:56:46 +0000   155451 bytes  test/data/validator/langattribute.test</tspan>
+<tspan x="10" y="2218">129.  2017-04-21 14:56:46 +0000      154 bytes  test/data/validator/li-value-attribute.test</tspan>
+<tspan x="10" y="2234">130.  2017-04-21 14:56:46 +0000      174 bytes  test/data/validator/link-href-attribute.test</tspan>
+<tspan x="10" y="2250">131.  2017-04-21 14:56:46 +0000      132 bytes  test/data/validator/link-hreflang-attribute.test</tspan>
+<tspan x="10" y="2266">132.  2017-04-21 14:56:46 +0000     8669 bytes  test/data/validator/link-rel-attribute.test</tspan>
+<tspan x="10" y="2282">133.  2017-04-21 14:56:46 +0000      154 bytes  test/data/validator/ol-start-attribute.test</tspan>
+<tspan x="10" y="2298">134.  2017-04-21 14:56:46 +0000     9088 bytes  test/data/validator/starttags.test</tspan>
+<tspan x="10" y="2314">135.  2017-04-21 14:56:46 +0000      157 bytes  test/data/validator/style-scoped-attribute.test</tspan>
+<tspan x="10" y="2330">136.  2017-04-21 14:56:46 +0000     2720 bytes  test/data/validator/tabindexattribute.test</tspan>
+<tspan x="10" y="2346">137.  2017-04-21 14:56:46 +0000     2132 bytes  test/lib/serializeTestOutput.js</tspan>
+<tspan x="10" y="2362">138.  2017-04-21 14:56:46 +0000     1586 bytes  test/lib/support.js</tspan>
+<tspan x="10" y="2378">139.  2017-04-21 14:56:46 +0000     1709 bytes  test/tree-construction-test.js</tspan>
+<tspan x="10" y="2394">140.  2017-04-21 14:56:46 +0000      465 bytes  tools/parse-doc.js</tspan>
+<tspan x="10" y="2410">141.  2017-04-21 14:56:46 +0000      288 bytes  tools/parse-test-data.js</tspan>
+<tspan x="10" y="2426">142.  2017-04-21 14:56:46 +0000     2371 bytes  tools/test-viewer/app.js</tspan>
+<tspan x="10" y="2442">143.  2017-04-21 14:56:46 +0000      163 bytes  tools/test-viewer/public/stylesheets/style.css</tspan>
+<tspan x="10" y="2458">144.  2017-04-21 14:56:46 +0000      379 bytes  tools/test-viewer/test/app.test.js</tspan>
+<tspan x="10" y="2474">145.  2017-04-21 14:56:46 +0000      131 bytes  tools/test-viewer/views/index.jade</tspan>
+<tspan x="10" y="2490">146.  2017-04-21 14:56:46 +0000      104 bytes  tools/test-viewer/views/layout.jade</tspan>
+<tspan x="10" y="2506">147.  2017-04-21 14:56:46 +0000      239 bytes  tools/test-viewer/views/output.jade</tspan>
+<tspan x="10" y="2522">148.  2017-04-21 14:56:46 +0000     2398 bytes  tools/testbed.js</tspan>
 </text>
 </svg>
